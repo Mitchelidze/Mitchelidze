@@ -1,9 +1,10 @@
-### I'm Miranda 👋
+### Hey, I'm Miranda 👋
+
 
 A junior design-minded
  interface developer
  
-As a junior user interface developer or front-end designer, I’m promising performer to help SaaS brands build UX-driven, modern, resilient user interfaces. I’m co-founder of UIDev community in Georgia which organizes local meetups and events, such as CSSconf GE in order to help bright-minded people get together and know more. At the same time, I founded open-source initiative newcomers.ge which helps local tech talents to be standout and be notified.
+As a junior user interface developer or front-end designer, I’m promising performer to help SaaS brands build UX-driven, modern, resilient user interfaces. I’m co-founder of UIDev community in Georgia which organizes local meetups and events, such as CSSconf GE in order to help bright-minded people get together and know more. At the same time, I founded open-source initiative newcomers which helps local tech talents to be standout and be notified.
 
 ##### All of my work is by default:
 01. UX-informed and component-driven
@@ -24,4 +25,5 @@ As a junior user interface developer or front-end designer, I’m promising perf
 - HTML5, CSS3(SCSS). 🔭 JS basics for UI interactions and TailwindCSS on the radar for 2020
 
 
+📁 Looking for PDF resume? [My Resume](https://www.github.com/Mitchelidze)  </br>
 📫 How to reach me: [mitchelidze@gmail.com](mailto:mitchelidze@gmail.com) 
