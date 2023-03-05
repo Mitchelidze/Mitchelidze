@@ -14,15 +14,10 @@ As an userinterface developer or front-end designer, I’m promising performer t
 05. Uses the latest in the UI and front-end field
 06. Optimizied for performance
 
-##### Highlighted work
-- TBC Insurance iOs App UX review and new concept.
-- TBC Pay mobile home page UX review and the new concept.
-- Livecaller mobile billing and checkout task flow UI/UX design. 
-
 ##### Environemnt 
+- SWIFT 
 - Figma-first for designing and refining UI interfaces.(Every design tool friendly)
 - HTML5, CSS3(SCSS). 🔭 JS basics for UI interactions and TailwindCSS on the radar for 2020
 
 
-📁 Looking for PDF resume? [My Resume](https://bit.ly/3dvKbfN)  </br>
 📫 How to reach me: [mitchelidze@gmail.com](mailto:mitchelidze@gmail.com) 
